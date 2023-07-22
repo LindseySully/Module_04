@@ -1,3 +1,7 @@
+# Project Overview
+In this project we will leverage a public api to pull an artist and song back into a json file. Write the json file, and then read the json file. After we read the file we leveraged SpaCY to conduct sentiment analysis on the lyrics. 
+
+
 # Requests, JSON, and basic NLP with spaCy
 
 Complete the tasks in the Python Notebook in this repository.
@@ -13,3 +17,4 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 * (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
 * (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
 * (Question 4) Questions answered thoughtfully: 2 pts
+
